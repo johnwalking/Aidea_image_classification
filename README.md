@@ -1,4 +1,11 @@
+使用套件
+
+
 # Aidea_image_classification
+
+使用套件： numpy / torch / torchvision / os / matplotlib / time / PIL / copy/ timm
+執行前請先安裝
+
 
 1. rename.py 
 for the merge of two class.
