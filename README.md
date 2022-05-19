@@ -29,6 +29,7 @@ python3 vit.py 32 0.5
 
 4. try the sam optimizer
 watch  https://github.com/moskomule/sam.pytorch
+執行前請先將上面網址裡面的sam.py複製到本地，與此程式相同位址方能正確執行。
 for training
 example:
 ```
